@@ -1,0 +1,40 @@
+.header{
+	min-height: 100px;
+	background-color: blueviolet;
+}
+.wrapper{
+	overflow: hidden;
+}
+.contact{
+	min-height: 200px;
+	background-color: darkcyan;
+	width: 50%;
+	float: left;
+}
+.blog{
+	min-height: 200px;
+	background-color: coral;
+	width: 50%;
+	float: right;
+}
+.container{
+	overflow: hidden;
+}
+.box{
+	min-height: 200px;
+	width: 33.3%;
+	float: left;
+}
+.ab{
+	background-color: brown;
+}
+.cd{
+	background-color: chartreuse;
+}
+.ef{
+	background-color: chocolate;
+}
+.footer{
+	min-height: 100px;
+	background-color: black;
+}
